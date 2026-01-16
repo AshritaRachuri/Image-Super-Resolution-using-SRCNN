@@ -50,7 +50,8 @@ This project aims to:
 ---
 
 ## 🏗 System Architecture
-![Uploading 94d38737-32ec-4dec-9161-ee24058f38a9.png…]()
+<img width="1401" height="681" alt="94d38737-32ec-4dec-9161-ee24058f38a9" src="https://github.com/user-attachments/assets/0f0cb4df-0db5-4d96-a069-b3daffd08d5a" />
+
 
 
 ---
